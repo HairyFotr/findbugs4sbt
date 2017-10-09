@@ -73,8 +73,8 @@ findbugsIncludeFilters := {
 
 ### `findbugsEffort`
 * *Description:* Decide how much effort to put into analysis.
-* *Accepts:* `Effort.{Minimum, Default, Maximum}`
-* *Default:* `Effort.Default`
+* *Accepts:* `FindbugsEffort.{Minimum, Default, Maximum}`
+* *Default:* `FindbugsEffort.Default`
 
 ### `findbugsOnlyAnalyze`
 * *Description:* Optionally, define which packages/classes should be analyzed.
